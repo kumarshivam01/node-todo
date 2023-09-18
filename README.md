@@ -19,7 +19,8 @@
 
 2. **Configuration**
 
-   - Configure your MongoDB connection by editing `.env file` and providing your MongoDB URL:
+   - Configure your MongoDB connection by editing `.env file` and providing your MongoDB URI:
+   - i am removing the mongoDB URI for Security Purpose.
 
 
 3. **Starting the Server**
