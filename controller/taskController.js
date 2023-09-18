@@ -1,4 +1,4 @@
-const Task = require('../models/user');
+const Task = require('../models/task');
 const { validationResult } = require('express-validator');
 
 
