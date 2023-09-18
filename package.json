@@ -1,0 +1,28 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "This Code for Internship Evolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarshivam01/node-todo.git"
+  },
+  "author": "Kumar shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarshivam01/node-todo/issues"
+  },
+  "homepage": "https://github.com/kumarshivam01/node-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1"
+  }
+}
